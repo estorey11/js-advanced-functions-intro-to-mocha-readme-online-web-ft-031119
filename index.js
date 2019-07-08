@@ -19,7 +19,7 @@ function shouting(string){
 }
 
 function roundDown(num){
-  return num.Math.floor()
+  return Math.floor(num)
 }
 
 
